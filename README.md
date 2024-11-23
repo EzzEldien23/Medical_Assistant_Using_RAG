@@ -16,17 +16,17 @@ Receive instant audio and text responses for immediate accessibility, whether yo
 
 ## How It Works
 ### 🔍 Smart Document Search
-Extracts and organizes content from large medical PDFs.
-Powered by a vector database for fast and highly relevant results.
+- Extracts and organizes content from large medical PDFs.
+- Powered by a vector database for fast and highly relevant results.
 ### 🗣 Voice Recognition
-Utilizes OpenAI Whisper for accurate voice transcription, even in noisy environments.
+- Utilizes OpenAI Whisper for accurate voice transcription, even in noisy environments.
 ### 🤖 AI-Powered Answers
-Leverages Retrieval-Augmented Generation (RAG) to deliver precise, document-backed answers.
+- Leverages Retrieval-Augmented Generation (RAG) to deliver precise, document-backed answers.
 ### 🔊 Text-to-Speech Support
-Converts text-based answers into speech for hands-free convenience.
+- Converts text-based answers into speech for hands-free convenience.
 ### Coming Enhancements
-Parent-Child Retrieval: Finds broader documents first and narrows down to specific sections for more detailed answers.
-Reranking: Ensures the most relevant documents are prioritized for every query.
+- Parent-Child Retrieval: Finds broader documents first and narrows down to specific sections for more detailed answers.
+- Reranking: Ensures the most relevant documents are prioritized for every query.
 ## Who It Helps
 #### Medical Professionals: Quick, real-time answers to clinical questions during busy shifts.
 #### Students & Researchers: Effortlessly search through medical papers or textbooks for study or research purposes.
