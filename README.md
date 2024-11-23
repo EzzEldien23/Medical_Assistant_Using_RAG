@@ -28,12 +28,12 @@ Converts text-based answers into speech for hands-free convenience.
 Parent-Child Retrieval: Finds broader documents first and narrows down to specific sections for more detailed answers.
 Reranking: Ensures the most relevant documents are prioritized for every query.
 ## Who It Helps
-### Medical Professionals: Quick, real-time answers to clinical questions during busy shifts.
-### Students & Researchers: Effortlessly search through medical papers or textbooks for study or research purposes.
-### Patients: Access fast, reliable, and document-backed answers to common health-related questions.
+#### Medical Professionals: Quick, real-time answers to clinical questions during busy shifts.
+#### Students & Researchers: Effortlessly search through medical papers or textbooks for study or research purposes.
+#### Patients: Access fast, reliable, and document-backed answers to common health-related questions.
 ## Technologies Used
-### Whisper Model: For accurate voice recognition.
-### RAG (Retrieval-Augmented Generation): For precise and document-based answers.
-### LangChain: To build robust retrieval and language generation pipelines.
-### Vector Database: Optimized for fast and relevant search results.
-### Gradio: For an intuitive, user-friendly interface.
+#### Whisper Model: For accurate voice recognition.
+#### RAG (Retrieval-Augmented Generation): For precise and document-based answers.
+#### LangChain: To build robust retrieval and language generation pipelines.
+#### Vector Database: Optimized for fast and relevant search results.
+#### Gradio: For an intuitive, user-friendly interface.
